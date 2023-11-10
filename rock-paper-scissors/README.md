@@ -5,6 +5,8 @@ Welcome to the Rock, Paper, Scissors game! This react web application allows use
 
 ## Game Preview
 
+https://github.com/raybrowndev/react-projects/assets/78723108/1fb496a0-9616-4801-aa48-139786658f74
+
 
 ### Features
 - **Components:** The application is structured using React components for better organisation and reusability. 
