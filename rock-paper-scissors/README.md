@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors Game
 
+![HTML5](https://img.shields.io/badge/html5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330) ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+
 ## Overview
 Welcome to the Rock, Paper, Scissors game! This react web application allows users to play the classic game against the computer. Simply enter your nickname, make a choice between Rock, Paper, or Scissors, and see who wins!
 
