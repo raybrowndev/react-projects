@@ -37,6 +37,8 @@ Welcome to the Rock, Paper, Scissors game! This react web application allows use
 4. Check the scoreboard to see the current scores.
 5. Restart the game at any time by clicking the "RESTART" button.
 
+
+
 <p align="center">
   <em>Thank you for checking out my project! 🚀</em>
 </p>
